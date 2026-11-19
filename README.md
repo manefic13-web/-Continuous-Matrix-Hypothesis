@@ -1,5 +1,5 @@
 # -Continuous-Matrix-Hypothesis
-Title: [Cryptanalysis Hypothesis] The [Your Name / Handle] Continuous Matrix Model: Testing the 18-Character Offset Between Zodiac’s Z-408 and Z-340 Ciphers
+Title: [Cryptanalysis Hypothesis] The [Manefic13] Continuous Matrix Model: Testing the 18-Character Offset Between Zodiac’s Z-408 and Z-340 Ciphers
 
 Author: Manefic13
 Date: November 2026
